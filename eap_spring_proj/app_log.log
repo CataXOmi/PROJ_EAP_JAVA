@@ -1,0 +1,60 @@
+[INFO ] 2020-05-24 13:24:20.854 [restartedMain] EapSpringProjApplication - Starting EapSpringProjApplication on DESKTOP-HS1RFRD with PID 11992 (C:\Users\catyb\IdeaProjects\eap_spring_proj\target\classes started by MrCat in C:\Users\catyb\IdeaProjects\eap_spring_proj)
+[INFO ] 2020-05-24 13:24:20.862 [restartedMain] EapSpringProjApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-05-24 13:24:24.937 [restartedMain] EapSpringProjApplication - Started EapSpringProjApplication in 4.497 seconds (JVM running for 6.243)
+[INFO ] 2020-05-24 13:24:24.940 [restartedMain] EapSpringProjApplication - Application Started
+[INFO ] 2020-05-24 13:24:36.065 [http-nio-8080-exec-2] UtilizatorController - login
+[INFO ] 2020-05-24 13:24:36.364 [http-nio-8080-exec-4] UtilizatorController - login
+[INFO ] 2020-05-24 13:24:38.470 [http-nio-8080-exec-5] UtilizatorController - login
+[INFO ] 2020-05-24 13:24:38.557 [http-nio-8080-exec-7] UtilizatorController - login
+[INFO ] 2020-05-24 13:24:43.179 [http-nio-8080-exec-8] UtilizatorController - register
+[INFO ] 2020-05-24 13:24:43.270 [http-nio-8080-exec-10] UtilizatorController - login
+[INFO ] 2020-05-24 13:34:41.595 [restartedMain] EapSpringProjApplication - Starting EapSpringProjApplication on DESKTOP-HS1RFRD with PID 13608 (C:\Users\catyb\IdeaProjects\eap_spring_proj\target\classes started by MrCat in C:\Users\catyb\IdeaProjects\eap_spring_proj)
+[INFO ] 2020-05-24 13:34:41.605 [restartedMain] EapSpringProjApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-05-24 13:34:45.681 [restartedMain] EapSpringProjApplication - Started EapSpringProjApplication in 4.522 seconds (JVM running for 6.298)
+[INFO ] 2020-05-24 13:34:45.684 [restartedMain] EapSpringProjApplication - Application Started
+[INFO ] 2020-05-24 13:34:51.004 [http-nio-8080-exec-2] UtilizatorController - login
+[INFO ] 2020-05-24 13:34:51.174 [http-nio-8080-exec-4] UtilizatorController - login
+[INFO ] 2020-05-24 13:34:52.784 [http-nio-8080-exec-5] UtilizatorController - login
+[INFO ] 2020-05-24 13:34:52.865 [http-nio-8080-exec-7] UtilizatorController - login
+[INFO ] 2020-05-24 13:47:45.618 [restartedMain] EapSpringProjApplication - Starting EapSpringProjApplication on DESKTOP-HS1RFRD with PID 20672 (C:\Users\catyb\IdeaProjects\eap_spring_proj\target\classes started by MrCat in C:\Users\catyb\IdeaProjects\eap_spring_proj)
+[INFO ] 2020-05-24 13:47:45.627 [restartedMain] EapSpringProjApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-05-24 13:47:49.565 [restartedMain] EapSpringProjApplication - Started EapSpringProjApplication in 4.33 seconds (JVM running for 6.026)
+[INFO ] 2020-05-24 13:47:49.567 [restartedMain] EapSpringProjApplication - Application Started
+[INFO ] 2020-05-24 13:48:00.069 [http-nio-8080-exec-1] UtilizatorController - login
+[INFO ] 2020-05-24 13:48:00.257 [http-nio-8080-exec-3] UtilizatorController - login
+[INFO ] 2020-05-24 14:11:58.500 [restartedMain] EapSpringProjApplication - Starting EapSpringProjApplication on DESKTOP-HS1RFRD with PID 3096 (C:\Users\catyb\IdeaProjects\eap_spring_proj\target\classes started by MrCat in C:\Users\catyb\IdeaProjects\eap_spring_proj)
+[INFO ] 2020-05-24 14:11:58.519 [restartedMain] EapSpringProjApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-05-24 14:12:03.729 [restartedMain] EapSpringProjApplication - Started EapSpringProjApplication in 5.867 seconds (JVM running for 8.989)
+[INFO ] 2020-05-24 14:12:03.734 [restartedMain] EapSpringProjApplication - Application Started
+[INFO ] 2020-05-24 14:14:45.548 [http-nio-8080-exec-3] UtilizatorController - login
+[INFO ] 2020-05-24 14:14:45.752 [http-nio-8080-exec-4] UtilizatorController - login
+[INFO ] 2020-05-24 14:14:47.174 [http-nio-8080-exec-5] UtilizatorController - login
+[INFO ] 2020-05-24 14:14:47.258 [http-nio-8080-exec-7] UtilizatorController - login
+[INFO ] 2020-05-24 17:38:19.871 [restartedMain] EapSpringProjApplication - Starting EapSpringProjApplication on DESKTOP-HS1RFRD with PID 5684 (C:\Users\catyb\IdeaProjects\eap_spring_proj\target\classes started by MrCat in C:\Users\catyb\IdeaProjects\eap_spring_proj)
+[INFO ] 2020-05-24 17:38:19.880 [restartedMain] EapSpringProjApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-05-24 17:38:23.901 [restartedMain] EapSpringProjApplication - Started EapSpringProjApplication in 4.417 seconds (JVM running for 6.204)
+[INFO ] 2020-05-24 17:38:23.904 [restartedMain] EapSpringProjApplication - Application Started
+[INFO ] 2020-05-24 17:38:32.051 [http-nio-8080-exec-2] UtilizatorController - login
+[INFO ] 2020-05-24 17:38:32.227 [http-nio-8080-exec-4] UtilizatorController - login
+[INFO ] 2020-05-24 17:38:33.703 [http-nio-8080-exec-5] UtilizatorController - login
+[INFO ] 2020-05-24 17:38:33.836 [http-nio-8080-exec-7] UtilizatorController - login
+[INFO ] 2020-05-24 17:40:55.180 [restartedMain] EapSpringProjApplication - Starting EapSpringProjApplication on DESKTOP-HS1RFRD with PID 23604 (C:\Users\catyb\IdeaProjects\eap_spring_proj\target\classes started by MrCat in C:\Users\catyb\IdeaProjects\eap_spring_proj)
+[INFO ] 2020-05-24 17:40:55.187 [restartedMain] EapSpringProjApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-05-24 17:40:59.236 [restartedMain] EapSpringProjApplication - Started EapSpringProjApplication in 4.426 seconds (JVM running for 6.167)
+[INFO ] 2020-05-24 17:40:59.239 [restartedMain] EapSpringProjApplication - Application Started
+[INFO ] 2020-05-24 17:41:05.365 [http-nio-8080-exec-3] UtilizatorController - login
+[INFO ] 2020-05-24 17:41:05.539 [http-nio-8080-exec-1] UtilizatorController - login
+[INFO ] 2020-05-24 19:06:34.782 [restartedMain] EapSpringProjApplication - Starting EapSpringProjApplication on DESKTOP-HS1RFRD with PID 24740 (C:\Users\catyb\IdeaProjects\eap_spring_proj\target\classes started by MrCat in C:\Users\catyb\IdeaProjects\eap_spring_proj)
+[INFO ] 2020-05-24 19:06:34.788 [restartedMain] EapSpringProjApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-05-24 19:06:39.055 [restartedMain] EapSpringProjApplication - Started EapSpringProjApplication in 4.675 seconds (JVM running for 6.374)
+[INFO ] 2020-05-24 19:06:39.057 [restartedMain] EapSpringProjApplication - Application Started
+[INFO ] 2020-05-24 19:06:43.407 [http-nio-8080-exec-2] UtilizatorController - login
+[INFO ] 2020-05-24 19:06:43.583 [http-nio-8080-exec-4] UtilizatorController - login
+[INFO ] 2020-05-24 19:06:45.639 [http-nio-8080-exec-5] UtilizatorController - login
+[INFO ] 2020-05-24 19:06:45.718 [http-nio-8080-exec-7] UtilizatorController - login
+[INFO ] 2020-05-24 19:29:27.237 [restartedMain] EapSpringProjApplication - Starting EapSpringProjApplication on DESKTOP-HS1RFRD with PID 17548 (C:\Users\catyb\IdeaProjects\eap_spring_proj\target\classes started by MrCat in C:\Users\catyb\IdeaProjects\eap_spring_proj)
+[INFO ] 2020-05-24 19:29:27.245 [restartedMain] EapSpringProjApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-05-24 19:29:31.412 [restartedMain] EapSpringProjApplication - Started EapSpringProjApplication in 4.577 seconds (JVM running for 6.214)
+[INFO ] 2020-05-24 19:29:31.415 [restartedMain] EapSpringProjApplication - Application Started
+[INFO ] 2020-05-24 19:29:41.072 [http-nio-8080-exec-1] UtilizatorController - login
+[INFO ] 2020-05-24 19:29:41.301 [http-nio-8080-exec-3] UtilizatorController - login
